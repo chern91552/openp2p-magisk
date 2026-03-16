@@ -5,6 +5,10 @@
 # 版本: 1.0
 
 MODDIR=${0%/*}
+
+# 自动修复脚本和二进制文件执行权限
+chmod 755 "${MODDIR}"/*.sh "${MODDIR}/openp2p" 2>/dev/null
+
 MODULE_DIR="/data/adb/modules/openp2p"
 OPENP2P_BIN="$MODULE_DIR/openp2p"
 # 使用 /sdcard/Documents/openp2p 作为配置和日志目录
