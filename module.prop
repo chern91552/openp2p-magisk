@@ -1,7 +1,7 @@
 id=openp2p
 name=OpenP2P
-version=3.25.7
-versionCode=32507
+version=3.25.8-beta
+versionCode=32508
 author=232252
-description=OpenP2P内网穿透服务 | 开机自启 | 进程守护 | 配置: /data/adb/modules/openp2p/config/config.json
+description=OpenP2P内网穿透服务 | Beta版本 | 包含PR#1更新: 日志增强+网络异常自动重启
 updateJson=https://raw.githubusercontent.com/232252/openp2p-magisk/main/update.json
