@@ -1,6 +1,6 @@
 id=openp2p
 name=OpenP2P 内网穿透
-version=v3.25.8
-versionCode=32508
+version=v3.25.7
+versionCode=32507
 author=OpenP2P Team
-description=OpenP2P 内网穿透服务。支持 TCP/UDP 自动 NAT 穿透。配置: /sdcard/Documents/openp2p/config/config.json
+description=OpenP2P 内网穿透服务。配置: /sdcard/Documents/openp2p/config/config.json
